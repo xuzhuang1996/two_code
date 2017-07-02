@@ -1,0 +1,13 @@
+C:\Users\qiutao\documents\visual studio 2010\Projects\xu\xu\obj\x86\Debug\AxInterop.esriControls.dll
+C:\Users\qiutao\documents\visual studio 2010\Projects\xu\xu\obj\x86\Debug\xu.csproj.ResolveComReference.cache
+C:\Users\qiutao\documents\visual studio 2010\Projects\xu\xu\bin\Debug\xu.exe
+C:\Users\qiutao\documents\visual studio 2010\Projects\xu\xu\bin\Debug\xu.pdb
+C:\Users\qiutao\documents\visual studio 2010\Projects\xu\xu\bin\Debug\AxInterop.esriControls.dll
+C:\Users\qiutao\documents\visual studio 2010\Projects\xu\xu\obj\x86\Debug\xu.Form1.resources
+C:\Users\qiutao\documents\visual studio 2010\Projects\xu\xu\obj\x86\Debug\xu.Properties.Resources.resources
+C:\Users\qiutao\documents\visual studio 2010\Projects\xu\xu\obj\x86\Debug\xu.csproj.GenerateResource.Cache
+C:\Users\qiutao\documents\visual studio 2010\Projects\xu\xu\obj\x86\Debug\xu.exe
+C:\Users\qiutao\documents\visual studio 2010\Projects\xu\xu\obj\x86\Debug\xu.pdb
+C:\Users\qiutao\documents\visual studio 2010\Projects\xu\xu\obj\x86\Debug\xu.csprojResolveAssemblyReference.cache
+C:\Users\qiutao\documents\visual studio 2010\Projects\xu\xu\obj\x86\Debug\xu.student.resources
+C:\Users\qiutao\documents\visual studio 2010\Projects\xu\xu\obj\x86\Debug\xu.find.resources
