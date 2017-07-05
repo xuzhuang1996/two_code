@@ -1,0 +1,7 @@
+#Sat May 20 21:35:03 CST 2017
+base.0=/home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8166fc57bbf6a27782b8f83b2026bf92c160772a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_83e14b968dfa971744f27eb7e58baef148875b83/classes.dex
+base.1=/home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_83e14b968dfa971744f27eb7e58baef148875b83
+file.0=/home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8166fc57bbf6a27782b8f83b2026bf92c160772a/classes.dex

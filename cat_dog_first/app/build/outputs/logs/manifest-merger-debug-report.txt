@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:6:22-77
+application
+ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/25f3f29ee312133158648509ca997c5fd3971c75/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/93672b975a0d9fca20952809ca137c30261ddd9f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/7b50d8214f87f41887de664e21c66bdc50af6642/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/010c546897a6a084e2195be08ceacbae4e6de458/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/9ddd02af71ded19c122097951dfad8657fcaebfe/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/bdab073c97685fa11c598ee719cb3c14124d2920/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/2b5bee5475ec4fd883b7316be2db4d080063d637/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/cf234fa9777141f8045b81a8b96a3da56aa3c96e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/be00495d50797bd9723100358a753708bca4cefe/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/1fea0bbdd95b09022b804f9ca131c141196dbe76/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.root.cat_dog_first.MainActivity
+ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:14:9-26:20
+	android:name
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:18:27-74
+intent-filter#android.intent.category.DEFAULT+android.media.action.IMAGE_CAPTURE
+ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.media.action.IMAGE_CAPTURE
+ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:22:25-74
+category#android.intent.category.DEFAULT
+ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml:24:27-73
+uses-sdk
+INJECTED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/25f3f29ee312133158648509ca997c5fd3971c75/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/93672b975a0d9fca20952809ca137c30261ddd9f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/7b50d8214f87f41887de664e21c66bdc50af6642/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/010c546897a6a084e2195be08ceacbae4e6de458/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/9ddd02af71ded19c122097951dfad8657fcaebfe/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/bdab073c97685fa11c598ee719cb3c14124d2920/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/2b5bee5475ec4fd883b7316be2db4d080063d637/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/cf234fa9777141f8045b81a8b96a3da56aa3c96e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/be00495d50797bd9723100358a753708bca4cefe/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/1fea0bbdd95b09022b804f9ca131c141196dbe76/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/25f3f29ee312133158648509ca997c5fd3971c75/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xu/tensorflow/tensorflow/examples/cat_dog_first/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/25f3f29ee312133158648509ca997c5fd3971c75/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/93672b975a0d9fca20952809ca137c30261ddd9f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/7b50d8214f87f41887de664e21c66bdc50af6642/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/010c546897a6a084e2195be08ceacbae4e6de458/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/9ddd02af71ded19c122097951dfad8657fcaebfe/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/bdab073c97685fa11c598ee719cb3c14124d2920/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/2b5bee5475ec4fd883b7316be2db4d080063d637/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/cf234fa9777141f8045b81a8b96a3da56aa3c96e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/be00495d50797bd9723100358a753708bca4cefe/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/25f3f29ee312133158648509ca997c5fd3971c75/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/25f3f29ee312133158648509ca997c5fd3971c75/output/AndroidManifest.xml:26:9-47
